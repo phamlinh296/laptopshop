@@ -14,7 +14,7 @@ Dự án tập trung vào **phát triển backend với Spring Boot** và đảm
 
 ### 1️⃣ User Management  
 - **Phân quyền người dùng (ROLE_USER / ROLE_ADMIN)**  
-- **Đăng ký, đăng nhập, xác thực email**  
+- **Đăng ký, đăng nhập**  
 - **Quản lý session bằng Spring Session JDBC** (chỉ cho phép một phiên đăng nhập duy nhất trên mỗi tài khoản)  
 
 ### 2️⃣ Product Management  
